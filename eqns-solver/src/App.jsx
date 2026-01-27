@@ -70,6 +70,7 @@ function App() {
           <h1 className='text-3xl font-bold text-center mb-6 text-yellow-500'>ax² + bx + c = 0</h1>
           
           <form onSubmit={calc}>
+        
             <div className='flex flex-col gap-4'>
               <div>
                 <label className='block text-sm font-medium text-gray-700 mb-2'>Enter a</label>
